@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Hello I'm Maheshwar Verma<br><br>- 📚 I'm currently learning Full stack web development.<br>- ⚡ Open source Enthusiast<br>- 🔭 DSA in java<br>💬 Ask me about React , Javascript</p>
+<p align="left">Hello I'm Maheshwar Verma<br><br>- 📚 I'm a Front-End web developer.<br>- ⚡ Open source Enthusiast<br>- 🔭 DSA in java<br>💬 Ask me about React , Javascript</p>
 
 ###
 
